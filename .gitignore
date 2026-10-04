@@ -1,0 +1,19 @@
+# Visual Studio and CMake state
+.vs/
+out/
+
+# Local build output
+build/
+
+# MSVC intermediates
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.res
+*.manifest
+
+# Generated binaries
+*.exe
+*.dll
+*.lib
